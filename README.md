@@ -1,3 +1,9 @@
+
+o	you can search for anything and it will show the result with the help of Google Custom API
+o	This project is fully responsive and also has pagination
+o	Technologies used: NextJs and Tailwind CSS.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
